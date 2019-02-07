@@ -1,0 +1,26 @@
+{
+  "name": "sy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "r3it",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.1.0",
+    "apollo-client": "^2.0.3",
+    "apollo-link": "^1.0.3",
+    "apollo-link-http": "^1.2.0",
+    "aws-appsync": "^1.7.1",
+    "es6-promise": "^4.2.5",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "isomorphic-fetch": "^2.2.1",
+    "redux-persist-node-storage": "^1.0.2",
+    "uuid": "^3.3.2",
+    "ws": "^3.3.3"
+  }
+}
